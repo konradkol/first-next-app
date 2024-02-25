@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Wprowadzenie do Frameworka Next.js",
+      "date": "2024-02-25",
+      "summary": "Poznaj Next.js, framework dla aplikacji React, który umożliwia łatwiejsze budowanie wydajnych i zoptymalizowanych stron internetowych.",
+      "content": "Next.js to framework oparty na React, który znacząco ułatwia proces budowania aplikacji internetowych. W tym wpisie przyjrzymy się, jak szybko rozpocząć pracę z Next.js, eksplorując jego kluczowe funkcje, takie jak renderowanie po stronie serwera i generowanie statycznych stron internetowych."
+    },
+    {
+      "id": 2,
+      "title": "Podstawy TypeScript dla początkujących",
+      "date": "2024-03-01",
+      "summary": "Odkryj, jak TypeScript może poprawić jakość Twojego kodu dzięki statycznemu typowaniu i wspomaganiu w czasie kompilacji.",
+      "content": "TypeScript dodaje typowanie statyczne do JavaScript, pomagając w wykrywaniu błędów wcześniej w procesie deweloperskim i poprawiając jakość kodu. W tym artykule omówimy podstawy TypeScript i pokażemy, jak zacząć z nim pracę."
+    },
+    {
+      "id": 3,
+      "title": "Co nowego w Tailwind CSS?",
+      "date": "2024-03-05",
+      "summary": "Zapoznaj się z najnowszymi funkcjami Tailwind CSS, które uczynią Twój proces projektowania stron jeszcze bardziej elastycznym i wydajnym.",
+      "content": "Tailwind CSS to utility-first framework CSS, który zyskuje na popularności dzięki swojej elastyczności i łatwości użycia. W tym wpisie przyjrzymy się najnowszym aktualizacjom i funkcjom, które zostały dodane do Tailwind CSS, aby jeszcze bardziej usprawnić proces projektowania."
+    },
+    {
+      "id": 4,
+      "title": "Jak budować aplikacje przyjazne dla SEO w Next.js",
+      "date": "2024-03-10",
+      "summary": "Dowiedz się, jak wykorzystać funkcje Next.js do tworzenia aplikacji internetowych zoptymalizowanych pod kątem wyszukiwarek.",
+      "content": "SEO jest kluczowym elementem sukcesu aplikacji internetowych. Next.js oferuje wiele funkcji, które pomagają w optymalizacji aplikacji pod kątem wyszukiwarek. W tym artykule omówimy najlepsze praktyki i techniki, które pozwolą Twojej aplikacji osiągnąć lepszą widoczność w wynikach wyszukiwania."
+    },
+    {
+      "id": 5,
+      "title": "Najlepsze praktyki w projektowaniu aplikacji z Tailwind CSS",
+      "date": "2024-03-15",
+      "summary": "Poznaj najlepsze metody wykorzystania Tailwind CSS w projektowaniu aplikacji, aby zapewnić efektywność i atrakcyjność wizualną.",
+      "content": "Tailwind CSS umożliwia szybkie tworzenie spójnych i estetycznie przyjemnych interfejsów użytkownika. W tym wpisie skupimy się na najlepszych praktykach projektowania z wykorzystaniem Tailwind CSS, wskazówkach dotyczących organizacji klas pomocniczych oraz metodach maksymalizacji wydajności i użyteczności aplikacji."
+    },
+    {
+      "id": 6,
+      "title": "Zarządzanie stanem w aplikacjach React z Redux i Context API",
+      "date": "2024-03-20",
+      "summary": "Odkryj techniki zarządzania stanem w dużych aplikacjach React, porównując Redux i Context API.",
+      "content": "Zarządzanie stanem jest kluczowym wyzwaniem w aplikacjach React, zwłaszcza tych o większej skali. W tym wpisie porównamy Redux i Context API jako dwa popularne podejścia do zarządzania stanem, omawiając ich zalety, wady i najlepsze przypadki użycia."
+    }
+  ]
+}
